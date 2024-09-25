@@ -17,6 +17,7 @@ import java.util.List;
  * where applicable as well as the @ResponseBody and @PathVariable annotations. You should
  * refer to prior mini-project labs and lecture materials for guidance on how a controller may be built.
  */
+/* All tests passing - complete */
 @RestController
 @RequestMapping("/")
 public class SocialMediaController {
